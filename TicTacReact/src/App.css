@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background: linear-gradient(rgb(230, 174, 183), rgb(50, 50, 212));
+}
+.container{
+  background: linear-gradient(rgb(181, 185, 181), rgb(214, 214, 202));
+  padding: 3rem;
+  border-radius: 10%;
+}
+.second-input{
+  margin-top: 1rem;
+}
+.product-name{
+  color: red;
+}
+.onStock{
+  margin-left: 0.5rem;
+}
